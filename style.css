@@ -1,0 +1,89 @@
+footer {
+  background-color: #06c2ec;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.jumbotron {
+  padding-top: 5rem;
+}
+
+.jumbotron p {
+  color: #0e3fee;
+  margin: auto;
+}
+.jumbotron a {
+  margin-top: 20px;
+}
+#about {
+  background-color: #0500ff;
+  padding-bottom: 100px;
+}
+#skill {
+  background-color: #0500ff;
+}
+#Experience {
+  background-color: #0500ff;
+  padding-top: 20rem;
+}
+
+#certificate {
+  background-color: #06c2ec;
+  /* padding-top: 5rem; */
+}
+
+.container p {
+  color: white;
+}
+.col h2 {
+  color: white;
+}
+
+.myskill {
+  padding-bottom: 50px;
+  padding-top: 2rem;
+}
+.myfooter {
+  padding-top: 100px;
+}
+
+.row .col-12 img {
+  padding-top: 50px;
+}
+
+.row .col-5 img {
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+.BNCC img {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.mycertificate {
+  padding-bottom: 100px;
+}
+
+.row .col-4 img {
+  margin-bottom: 50px;
+}
+.row .icon_sosmed {
+  padding-left: 25px;
+}
+
+.row .icon_sosmed img {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.copyright h1 {
+  font-size: 20px;
+  color: white;
+  padding-bottom: 40px;
+}
+
+section {
+  padding-top: 3rem;
+}
